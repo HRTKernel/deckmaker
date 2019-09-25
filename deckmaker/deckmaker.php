@@ -6,7 +6,7 @@
 /*
 Plugin Name:  Deckmaker Plugin
 Description:  Spezielle Funktionen und Code für dlww-gaming.de. Shortcode Cards [deckmaker src=] - Beispiel [deckmaker src=2783661] Die Card ID bekommt man unter https://db.ygoprodeck.com/search/
-Version:      1.0.0.4
+Version:      1.0.0.5
 Author:       Maik Diebenkorn
 */ 
  
